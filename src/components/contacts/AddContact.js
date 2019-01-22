@@ -94,7 +94,6 @@ class AddContact extends Component {
             />
           </form>
         </div>
-        <span>galo doido oidododdo</span>
       </div>
     );
   }
