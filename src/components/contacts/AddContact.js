@@ -71,7 +71,7 @@ class AddContact extends Component {
               error={errors.name}
             />
             <TextInputGroup
-              label="Email"
+              label="email"
               name="email"
               type="email"
               placeholder="Enter Email"
